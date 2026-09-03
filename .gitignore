@@ -5,3 +5,6 @@ dist/
 *.tfstate.*
 .env
 .DS_Store
+dist-types/
+.yarn/install-state.gz
+*.tsbuildinfo
